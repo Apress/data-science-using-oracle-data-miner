@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Data Science Using Oracle Data Miner and Oracle R Enterprise*](http://www.apress.com/9781484226131) by Das, Sibanjan (Apress, 2016).
+This repository accompanies [*Data Science Using Oracle Data Miner and Oracle R Enterprise*](http://www.apress.com/9781484226131) by Sibanjan Das (Apress, 2016).
 
 ![Cover image](9781484226131.jpg)
 
