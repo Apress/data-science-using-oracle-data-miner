@@ -2,7 +2,7 @@
 
 This repository accompanies [*Data Science Using Oracle Data Miner and Oracle R Enterprise*](http://www.apress.com/9781484226131) by Sibanjan Das (Apress, 2016).
 
-![Cover image](9781484226131.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
